@@ -1,0 +1,17 @@
+title: George Odongo – Research Data Scientist Portfolio
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_excerpts: true
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/<your-username>" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/<your-handle>/" }
+header_pages:
+  - portfolio.md
+  - research.md
+  - writing.md
+  - ethics.md
+  - cv.md
